@@ -18,12 +18,12 @@
 
 <h4>
   <p align="center">
-    <a href="https://neuxregime.com">neuxregi.me</a>
+    <a href="https://neuxregime.com" target="_blank">neuxregi.me</a>
   </p>
 </h4>
 
 
 <p align="center">
-  <a href="https://twitter.com/neuxregime"><img src="https://img.icons8.com/FFFFFF/28/twitter/"></img></a>
-  <a href="https://twitter.com/neuxregime"><img src="https://img.icons8.com/FFFFFF/28/instagram/"> </img></a>
+  <a href="https://twitter.com/neuxregime" target="_blank"><img src="https://img.icons8.com/FFFFFF/28/twitter/"></img></a>
+  <a href="https://twitter.com/neuxregime" target="_blank"><img src="https://img.icons8.com/FFFFFF/28/instagram/"> </img></a>
 </p>
