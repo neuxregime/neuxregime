@@ -25,5 +25,5 @@
 
 <p align="center">
   <a href="https://twitter.com/neuxregime" target="_blank"><img src="https://img.icons8.com/FFFFFF/28/twitter/"></img></a>
-  <a href="https://twitter.com/neuxregime" target="_blank"><img src="https://img.icons8.com/FFFFFF/28/instagram/"> </img></a>
+  <a href="https://instagram.com/neuxregime" target="_blank"><img src="https://img.icons8.com/FFFFFF/28/instagram/"> </img></a>
 </p>
