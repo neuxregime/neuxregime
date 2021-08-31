@@ -1,7 +1,7 @@
 # NEU × REGIME
 
 **/njuː reɪˈʒiːm/** <br> ■ a ʜᴇᴀᴅʟᴇss + ᴀɴᴏɴʏᴍᴏᴜs collective—traversing the boundaries of ᴀʀᴛ, ᴄᴏᴍᴘᴜᴛᴀᴛɪᴏɴ, and ᴍᴇᴅɪᴀ 🟢
-![Tux, the Linux mascot](banner.jpg)
+![banner](banner.jpg)
 
 <!---
 neuxregime/neuxregime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
