@@ -1,7 +1,7 @@
 # NEU × REGIME
 
 **/njuː reɪˈʒiːm/** <br> ■ a ʜᴇᴀᴅʟᴇss + ᴀɴᴏɴʏᴍᴏᴜs collective—traversing the boundaries of ᴀʀᴛ, ᴄᴏᴍᴘᴜᴛᴀᴛɪᴏɴ, and ᴍᴇᴅɪᴀ 🟢
-![banner](banner.jpg)
+![banner](banner-stripes.png)
 
 <!---
 neuxregime/neuxregime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
