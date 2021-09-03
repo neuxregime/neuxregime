@@ -18,7 +18,7 @@
 
 <h4>
   <p align="center">
-    <a href="https://neuxregime.com" target="_blank">neuxregi.me</a>
+    <a href="https://neuxregi.me" target="_blank">neuxregi.me</a>
   </p>
 </h4>
 
