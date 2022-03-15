@@ -12,10 +12,6 @@
   <img src="banner-stripes.png">
 </p>
 
-<p align="center">
-  —ᴀʀᴛ, ᴛᴇᴄʜ, ᴛʜᴇᴏʀʏ—<br>
-</p>
-
 <h4>
   <p align="center">
     <a href="https://neu.zone" target="_blank">neu.zone</a>
