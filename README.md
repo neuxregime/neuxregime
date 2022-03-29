@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>/njuː reɪˈʒiːm/ </b><br> a ʜᴇᴀᴅʟᴇss + ᴀɴᴏɴʏᴍᴏᴜs collective—traversing the boundaries of ᴀʀᴛ, ᴄᴏᴍᴘᴜᴛᴀᴛɪᴏɴ, and ᴍᴇᴅɪᴀ
+  <b>/njuː reɪˈʒiːm/ </b><br> a ʜᴇᴀᴅʟᴇss collective—traversing the boundaries of ᴀʀᴛ, ᴄᴏᴍᴘᴜᴛᴀᴛɪᴏɴ, and ᴍᴇᴅɪᴀ
 </p>
 
 <p align="center">
